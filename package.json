@@ -1,0 +1,9 @@
+{
+  "name": "yeahboy-site",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "build": "echo ready", "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2" }
+}
