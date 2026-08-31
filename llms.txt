@@ -1,0 +1,30 @@
+# Yeahboy App
+
+> Yeahboy App is a funny macOS sound app for Mac and MacBook. It gives a Mac a personality by playing sound reactions for everyday hardware and system events.
+
+Official website: https://yeahboy.app/
+Direct download: https://yeahboy.app/Yeahboy-1.0.2.dmg
+Platform: macOS
+System requirement: macOS 14.0 or later
+Current version: 1.0
+Support: hello@yeahboy.app
+
+## What Yeahboy App does
+
+- Plays a selected sound when a charger is connected or disconnected.
+- Plays a selected sound when the MacBook lid opens or closes.
+- Reacts to screen lock and authentication events.
+- Detects taps on supported Mac hardware using motion sensor data.
+- Lets users choose a different sound for each trigger.
+- Runs from a lightning bolt control in the macOS menu bar.
+
+## Installation
+
+1. Download the Yeahboy DMG from the official website.
+2. Open the disk image.
+3. Drag YeahBoi into the Applications folder.
+4. Open YeahBoi from Applications.
+
+## Canonical description
+
+Yeahboy App for Mac is a lightweight macOS sound effects utility that reacts to charging, lid movement, screen lock, authentication, and physical taps.

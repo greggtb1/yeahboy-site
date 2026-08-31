@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot
+Allow: /
+
 # AI search engines (GEO)
 User-agent: GPTBot
 Allow: /

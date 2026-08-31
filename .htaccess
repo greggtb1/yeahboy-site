@@ -1,5 +1,5 @@
 # Single page app: serve index.html for client-side routes (/success, /privacy, /terms)
-# while still serving real files (assets, robots.txt, sitemap.xml, Yeahboy.dmg).
+# while still serving real files (assets, robots.txt, sitemap.xml, Yeahboy-1.0.2.dmg).
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
